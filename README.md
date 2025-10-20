@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/saeedsourav/home](https://sites.google.com/view/saeedsourav/home)
 
-- 📫 How to reach me **saeedsourav@gmsil>com**
+- 📫 How to reach me **saeedsourav@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1h2sHSyxqdFXlNgmdvWaFWJgqaP8xv3UOJkfZ5xrqctI/edit?usp=sharing](https://docs.google.com/document/d/1h2sHSyxqdFXlNgmdvWaFWJgqaP8xv3UOJkfZ5xrqctI/edit?usp=sharing)
 
