@@ -38,7 +38,6 @@
 		Crack_the_PhD()
 		Owner_of_unlimited_Citations:P()
 		Spreading_positivity_through_photography()
-		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
@@ -49,6 +48,4 @@
   - :octocat: [My Resume](https://docs.google.com/document/d/1h2sHSyxqdFXlNgmdvWaFWJgqaP8xv3UOJkfZ5xrqctI/edit?usp=sharing)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
-![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=Saeedsourav1&show_icons=true&hide=[%22issues%22])
- 
  
